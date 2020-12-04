@@ -2401,14 +2401,12 @@ url="https://doi.org/10.1007/s10994-013-5415-y"
 }
 
 @Article{strelhow2015estudos,
-  author       = {Strelhow, Miriam Raquel Wachholz and Masiero, Luciana Rubensan Ourique and Santos, Bibiana Ramos dos and Sarriera, Jorge Castell{\'a} and Teixeira, Marco Ant{\^o}nio Pereira},
-  date         = {2015},
-  journaltitle = {Psico-USF},
-  title        = {Estudos psicom{\'e}tricos da Escala Eudemon de Bem-Estar Pessoal em adolescentes},
-  number       = {1},
-  pages        = {63--74},
-  volume       = {20},
-  comment      = {'O estudo do bem-estar pode ser considerado a partir de diferentes tradições dentro da Psicologia Positiva, destacando-se as perspectivas hedônica e eudemônica. As duas tradições consideram o bem-estar a partir de avaliações subjetivas, entretanto, enfatizam diferentes aspectos (Keyes, Shmotkin, & Ryff, 2002). O bem-estar hedônico tem como foco a felicidade, a presença de afetos positivos e a ausência de afetos negativos; enquanto o bem-estar eudemônico está relacionado com a busca de sentido para a vida, o desenvolvimento e a realização pessoal (Deci & Ryan, 2008).'
+  author    = {Strelhow, Miriam Raquel Wachholz and Masiero, Luciana Rubensan Ourique and Santos, Bibiana Ramos dos and Sarriera, Jorge Castell{\'a} and Teixeira, Marco Ant{\^o}nio Pereira},
+  title     = {Estudos psicom{\'e}tricos da Escala Eudemon de Bem-Estar Pessoal em adolescentes},
+  number    = {1},
+  pages     = {63--74},
+  volume    = {20},
+  comment   = {'O estudo do bem-estar pode ser considerado a partir de diferentes tradições dentro da Psicologia Positiva, destacando-se as perspectivas hedônica e eudemônica. As duas tradições consideram o bem-estar a partir de avaliações subjetivas, entretanto, enfatizam diferentes aspectos (Keyes, Shmotkin, & Ryff, 2002). O bem-estar hedônico tem como foco a felicidade, a presença de afetos positivos e a ausência de afetos negativos; enquanto o bem-estar eudemônico está relacionado com a busca de sentido para a vida, o desenvolvimento e a realização pessoal (Deci & Ryan, 2008).'
 
 'Em geral, entende-se que a tradição hedônica está relacionada ao estudo do bem-estar subjetivo e a tradição eudemônica, ao estudo do bem-estar psicológico (Casas, 2010).' - What??
 
@@ -2421,8 +2419,10 @@ Fatores:
 
 - Ausência de Bem-estar (que eu posso não considerar)
 - Bem-estar positivo},
-  groups       = {Instrumentos - Bem-estar Subjetivo},
-  publisher    = {SciELO Brasil},
+  groups    = {Instrumentos - Bem-estar Subjetivo},
+  journal   = {Psico-USF},
+  publisher = {SciELO Brasil},
+  year      = {2015},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
