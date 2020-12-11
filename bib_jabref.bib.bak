@@ -56,6 +56,24 @@
   pages        = {31 - 40},
   url          = {http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&pid=S1677-04712019000100005&nrm=iso},
   volume       = {18},
+  comment      = {Observações:
+- Não contêm itens no texto
+- Para crianças de até 12 anos
+Citações
+
+- ''A satisfação de vida é uma das dimensões do bem-estar subjetivo, reconhecida como uma avaliação cognitiva sobre a vida de maneira geral e nas suas diferentes áreas (Diener, 1984; Gilman & Huebner, 2006).''
+
+- ''No Brasil, o modelo proposto por Huebner (1994) foi revisto e ampliado por Giacomoni e Hutz (2008) que, levando em consideração características do contexto, criaram a Escala Multidimensional de Satisfação de Vida para Crianças (EMSVC). A EMSVC é composta por 50 itens em seis dimensões. Entre os fatores que compõem a escala, os domínios Self, Família, Amizade e Escola assemelham-se ao modelo anterior. Foram adicionados os fatores Self Comparado e Não Violência, considerados importantes para as crianças brasileiras''
+
+Domínios:
+- Self (características positivas como autoestima, bom-humor, capacidade de demonstrar afetos e de relacionar-se)
+- Self comparado (avaliações comparativas com seus pares em relação ao lazer, amizade, satisfação de desejos e efetos)
+- Família (relação com pares, satisfação em relacionamentos, lazer, diversão e apoio social)
+- Escola (ambiente escolar, relacionamentos interpessoais)
+- Amizade
+- Não violência (comportamentos agressivos)
+- No estudo que deu origem à EMSVC (Giacomoni & Hutz, 2008) não foi encontrada diferença entre
+Escala disponível aqui: https://www.ufrgs.br/nepp/wp-content/uploads/2019/06/Nova-versa%CC%83o-EMSVC.pdf},
   crossref     = {10.15689/ap.2019.1801.15492.04},
   file         = {:https\://www.ufrgs.br/nepp/wp-content/uploads/2019/06/Nova-versa%CC%83o-EMSVC.pdf:},
   groups       = {Instrumentos - Bem-estar Subjetivo},
@@ -2294,24 +2312,20 @@ OPTpages = {1-23}
   publisher={National Acad Sciences}
 }
 
-@Article{kosinski2014,
-author="Kosinski, Michal
-and Bachrach, Yoram
-and Kohli, Pushmeet
-and Stillwell, David
-and Graepel, Thore",
-title="Manifestations of user personality in website choice and behaviour on online social networks",
-journal="Machine Learning",
-year="2014",
-month="06",
-day="01",
-volume="95",
-number="3",
-pages="357--380",
-abstract="Individual differences in personality affect users' online activities as much as they do in the offline world. This work, based on a sample of over a third of a million users, examines how users' behaviour in the online environment, captured by their website choices and Facebook profile features, relates to their personality, as measured by the standard Five Factor Model personality questionnaire. Results show that there are psychologically meaningful links between users' personalities, their website preferences and Facebook profile features. We show how website audiences differ in terms of their personality, present the relationships between personality and Facebook profile features, and show how an individual's personality can be predicted from Facebook profile features. We conclude that predicting a user's personality profile can be applied to personalize content, optimize search results, and improve online advertising.",
-issn="1573-0565",
-doi="10.1007/s10994-013-5415-y",
-url="https://doi.org/10.1007/s10994-013-5415-y"
+@Article{kosinski2013,
+  author   = {Kosinski, Michal and Bachrach, Yoram and Kohli, Pushmeet and Stillwell, David and Graepel, Thore},
+  title    = {Manifestations of user personality in website choice and behaviour on online social networks},
+  doi      = {10.1007/s10994-013-5415-y},
+  issn     = {1573-0565},
+  number   = {3},
+  pages    = {357--380},
+  url      = {https://doi.org/10.1007/s10994-013-5415-y},
+  volume   = {95},
+  abstract = {Individual differences in personality affect users' online activities as much as they do in the offline world. This work, based on a sample of over a third of a million users, examines how users' behaviour in the online environment, captured by their website choices and Facebook profile features, relates to their personality, as measured by the standard Five Factor Model personality questionnaire. Results show that there are psychologically meaningful links between users' personalities, their website preferences and Facebook profile features. We show how website audiences differ in terms of their personality, present the relationships between personality and Facebook profile features, and show how an individual's personality can be predicted from Facebook profile features. We conclude that predicting a user's personality profile can be applied to personalize content, optimize search results, and improve online advertising.},
+  day      = {01},
+  journal  = {Machine Learning},
+  month    = {06},
+  year     = {2014},
 }
 
 @article{borsboom2019brain,
@@ -2414,6 +2428,9 @@ Fatores:
   groups  = {Instrumentos - Bem-estar Subjetivo},
   journal = {Avalia{\c{c}}{\~a}o Psicol{\'o}gica},
   year    = {2013},
+}
+
+@Article{,
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
