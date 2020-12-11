@@ -2430,7 +2430,26 @@ Fatores:
   year    = {2013},
 }
 
-@Article{,
+@Article{kim2005integrating,
+  author    = {Kim-Prieto, Chu and Diener, Ed and Tamir, Maya and Scollon, Christie and Diener, Marissa},
+  title     = {Integrating the diverse definitions of happiness: A time-sequential framework of subjective well-being},
+  number    = {3},
+  pages     = {261--300},
+  volume    = {6},
+  journal   = {Journal of happiness Studies},
+  publisher = {Springer},
+  year      = {2005},
+}
+
+@InBook{maddux2018c1,
+  author    = {James E. Maddux},
+  booktitle = {Subjective well-being and life satisfaction: An introduction to conceptions, theories, and measures.},
+  title     = {Subjective Well- Being and Life Satisfaction: An Introductionto Conceptions, Theories, and Measures.},
+  chapter   = {1},
+  editor    = {James E. Maddux},
+  pages     = {3-31},
+  publisher = {Routledge/Taylor \& Francis Group},
+  year      = {2018},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
