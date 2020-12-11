@@ -17,20 +17,19 @@
   year      = {2014},
 }
 
-
-@article{neri2018,
-   title = {{Nova valida\~A\S\~A\poundso sem\~A\textcentntico-cultural e estudo psicom\~A\copyrighttrico da CASP-19 em adultos e idosos brasileiros}},
-   journal = {{Cadernos de Sa\~A\textordmasculinede P\~A\textordmasculineblica}},
-   author={Neri, Anita Liberalesso AND Borim, Fl\~A!`via Silva Arbex AND Batistoni, Samila Sathler Tavares AND Cachioni, Meire AND Rabelo, D\~A\textthreesuperiorris Firmino AND Fontes, Arlete Portella AND Yassuda, M\~A\'{}nica Sanches},
-   ISSN = {0102-311X},
-   language = {pt},
-   URL = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2018001004002&nrm=iso},
-   volume = {34},
-   year = {2018},
-   month = {00},
-   publisher = {scielo},
-   crossref = {10.1590/0102-311x00181417},
-   }
+@Article{neri2018,
+  author    = {Neri, Anita Liberalesso AND Borim, Fl\~A!`via Silva Arbex AND Batistoni, Samila Sathler Tavares AND Cachioni, Meire AND Rabelo, D\~A\textthreesuperiorris Firmino AND Fontes, Arlete Portella AND Yassuda, M\~A\'{}nica Sanches},
+  title     = {Nova validação semântico-cultural e estudo psicométrico da CASP-19 em adultos e idosos brasileiros},
+  issn      = {0102-311X},
+  language  = {pt},
+  url       = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-311X2018001004002&nrm=iso},
+  volume    = {34},
+  crossref  = {10.1590/0102-311x00181417},
+  journal   = {Cadernos de Saúde Pública},
+  month     = {00},
+  publisher = {scielo},
+  year      = {2018},
+}
 
 @article{souza2012,
    title = {{Suicide mortality in São Gabriel da Cachoeira, a predominantly indigenous Brazilian municipality}},
@@ -2401,12 +2400,14 @@ url="https://doi.org/10.1007/s10994-013-5415-y"
 }
 
 @Article{strelhow2015estudos,
-  author    = {Strelhow, Miriam Raquel Wachholz and Masiero, Luciana Rubensan Ourique and Santos, Bibiana Ramos dos and Sarriera, Jorge Castell{\'a} and Teixeira, Marco Ant{\^o}nio Pereira},
-  title     = {Estudos psicom{\'e}tricos da Escala Eudemon de Bem-Estar Pessoal em adolescentes},
-  number    = {1},
-  pages     = {63--74},
-  volume    = {20},
-  comment   = {'O estudo do bem-estar pode ser considerado a partir de diferentes tradições dentro da Psicologia Positiva, destacando-se as perspectivas hedônica e eudemônica. As duas tradições consideram o bem-estar a partir de avaliações subjetivas, entretanto, enfatizam diferentes aspectos (Keyes, Shmotkin, & Ryff, 2002). O bem-estar hedônico tem como foco a felicidade, a presença de afetos positivos e a ausência de afetos negativos; enquanto o bem-estar eudemônico está relacionado com a busca de sentido para a vida, o desenvolvimento e a realização pessoal (Deci & Ryan, 2008).'
+  author       = {Strelhow, Miriam Raquel Wachholz and Masiero, Luciana Rubensan Ourique and Santos, Bibiana Ramos dos and Sarriera, Jorge Castell{\'a} and Teixeira, Marco Ant{\^o}nio Pereira},
+  date         = {2015},
+  journaltitle = {Psico-USF},
+  title        = {Estudos psicom{\'e}tricos da Escala Eudemon de Bem-Estar Pessoal em adolescentes},
+  number       = {1},
+  pages        = {63--74},
+  volume       = {20},
+  comment      = {'O estudo do bem-estar pode ser considerado a partir de diferentes tradições dentro da Psicologia Positiva, destacando-se as perspectivas hedônica e eudemônica. As duas tradições consideram o bem-estar a partir de avaliações subjetivas, entretanto, enfatizam diferentes aspectos (Keyes, Shmotkin, & Ryff, 2002). O bem-estar hedônico tem como foco a felicidade, a presença de afetos positivos e a ausência de afetos negativos; enquanto o bem-estar eudemônico está relacionado com a busca de sentido para a vida, o desenvolvimento e a realização pessoal (Deci & Ryan, 2008).'
 
 'Em geral, entende-se que a tradição hedônica está relacionada ao estudo do bem-estar subjetivo e a tradição eudemônica, ao estudo do bem-estar psicológico (Casas, 2010).' - What??
 
@@ -2419,10 +2420,26 @@ Fatores:
 
 - Ausência de Bem-estar (que eu posso não considerar)
 - Bem-estar positivo},
-  groups    = {Instrumentos - Bem-estar Subjetivo},
-  journal   = {Psico-USF},
-  publisher = {SciELO Brasil},
-  year      = {2015},
+  groups       = {Instrumentos - Bem-estar Subjetivo},
+  publisher    = {SciELO Brasil},
+}
+
+@Article{machado2013validaccao,
+  author  = {Machado, Wagner de Lara and Bandeira, Denise Ruschel and Pawlowski, Josiane},
+  title   = {Valida{\c{c}}{\~a}o da Psychological Well-being Scale em uma amostra de estudantes universit{\'a}rios},
+  number  = {2},
+  pages   = {263--272},
+  volume  = {12},
+  comment = {24,18 (DP = 6,44) anos, sendo 190 (60,7%) mulheres
+
+- Bem-estar Psicológico (BEP, Ryff, 1989), com seis dimensões: relações positivas com os outros, autonomia, domínio sobre o ambiente, crescimento pessoal, propósito na vida, autoaceitação
+- validação feita com estudantes universitários
+- índices de ajuste marginalmente aceitáveis (CFI, NNFI maior que 0,90)
+- boa validade externa
+- modelo final foi de 6 fatores oblíquos: relações positivas com os outros, autonomia, domínio sobre o ambiente, crescimento pessoal, propósito na vida e autoaceitação},
+  groups  = {Instrumentos - Bem-estar Subjetivo},
+  journal = {Avalia{\c{c}}{\~a}o Psicol{\'o}gica},
+  year    = {2013},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
