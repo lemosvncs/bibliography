@@ -2453,6 +2453,28 @@ Fatores:
   year      = {2018},
 }
 
+@Article{diener2003,
+  author    = {Ed Diener and Shigehiro Oishi and Richard E. Lucas},
+  title     = {Personality, Culture, and Subjective Well-Being: Emotional and Cognitive Evaluations of Life},
+  doi       = {10.1146/annurev.psych.54.101601.145056},
+  number    = {1},
+  pages     = {403--425},
+  volume    = {54},
+  journal   = {Annual Review of Psychology},
+  month     = {feb},
+  publisher = {Annual Reviews},
+  year      = {2003},
+}
+
+@WWW{BibEntry2020Dec,
+  author = {Jason T. Newsom},
+  title  = {Post Hoc Tests},
+  url    = {https://web.pdx.edu/~newsomj/uvclass/ho_posthoc.pdf},
+  note   = {[Online; accessed 28. Dec. 2020]},
+  month  = {Dec},
+  year   = {2020},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
