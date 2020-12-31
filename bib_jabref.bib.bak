@@ -2466,7 +2466,7 @@ Fatores:
   year      = {2003},
 }
 
-@WWW{BibEntry2020Dec,
+@WWW{newsomph,
   author = {Jason T. Newsom},
   title  = {Post Hoc Tests},
   url    = {https://web.pdx.edu/~newsomj/uvclass/ho_posthoc.pdf},
