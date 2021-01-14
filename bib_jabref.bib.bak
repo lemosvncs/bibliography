@@ -2475,6 +2475,21 @@ Fatores:
   year   = {2020},
 }
 
+@Article{CunhaLeme2020,
+  author    = {Daniel Eduardo da Cunha Leme and and Erika Valeska da Costa Alves and Vin{\'{\i}}cius do Carmo Oliveira Lemos and Andr{\'{e}} Fattori and and and},
+  title     = {{NETWORK} {ANALYSIS}: A {MULTIVARIATE} {STATISTICAL} {APPROACH} {FOR} {HEALTH} {SCIENCE} {RESEARCH}},
+  doi       = {10.5327/z2447-212320201900073},
+  number    = {1},
+  pages     = {43--51},
+  volume    = {14},
+  journal   = {Geriatrics, Gerontology and Aging},
+  publisher = {Zeppelini Editorial e Comunicacao},
+  year      = {2020},
+}
+
+@Article{,
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
