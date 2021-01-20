@@ -2495,6 +2495,15 @@ Fatores:
   year    = {2010},
 }
 
+@Misc{hamilton2020,
+  author = {{Contribuidores dos projetos da Wikimedia}},
+  title  = {{Alexander Hamilton {\textendash} Wikipédia, a enciclopédia livre.}},
+  note   = {[Online; accessed 19. Jan. 2021]},
+  url    = {https://pt.wikipedia.org/w/index.php?title=Alexander_Hamilton&oldid=58976848},
+  month  = {Aug},
+  year   = {2020},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
