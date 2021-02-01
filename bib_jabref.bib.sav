@@ -2514,6 +2514,24 @@ Fatores:
   journal = {UOL},
 }
 
+@Misc{emathCorrelation,
+  title   = {Correlation},
+  note    = {[Online; accessed 1. Feb. 2021]},
+  url     = {https://www.emathzone.com/tutorials/basic-statistics/correlation.html},
+  journal = {eMathZone},
+  month   = {Jun},
+  year    = {2019},
+}
+
+@Misc{emathLinearNonLinear,
+  title   = {{Linear and Non Linear Correlation}},
+  note    = {[Online; accessed 1. Feb. 2021]},
+  url     = {https://www.emathzone.com/tutorials/basic-statistics/linear-and-non-linear-correlation.html},
+  journal = {eMathZone},
+  month   = {Jun},
+  year    = {2019},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
