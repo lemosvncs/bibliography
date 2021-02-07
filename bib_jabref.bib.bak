@@ -2552,7 +2552,20 @@ Fatores:
   year    = {2019},
 }
 
-@Article{,
+@Book{american2014standards,
+  author    = {American Educational Research Association and others},
+  title     = {Standards for educational and psychological testing},
+  publisher = {American Educational Research Association American Psychological Association~…},
+  year      = {2014},
+}
+
+@InBook{ContributorstoWikimediaprojects2020Dec,
+  booktitle = {Wikip\'edia: a enciclop\'edia livre},
+  title     = {{Regression dilution - Wikipedia}},
+  note      = {[Online; accessed 7. Feb. 2021]},
+  url       = {https://en.wikipedia.org/w/index.php?title=Regression_dilution&oldid=993737833},
+  month     = {Dec},
+  year      = {2020},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
