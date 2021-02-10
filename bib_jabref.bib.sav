@@ -2568,6 +2568,47 @@ Fatores:
   year      = {2020},
 }
 
+@Article{,
+}
+
+@Article{Strelhow2015,
+  author    = {Miriam Raquel Wachholz Strelhow and Luciana Rubensan Ourique Masiero and Bibiana Ramos dos Santos and Jorge Castell{\'{a}} Sarriera and Marco Ant{\^{o}}nio Pereira Teixeira},
+  title     = {Estudos psicom{\'{e}}tricos da Escala Eudemon de Bem-Estar Pessoal em adolescentes},
+  doi       = {10.1590/1413-82712015200106},
+  number    = {1},
+  pages     = {63--74},
+  volume    = {20},
+  journal   = {Psico-{USF}},
+  month     = {apr},
+  publisher = {{FapUNIFESP} ({SciELO})},
+  year      = {2015},
+}
+
+@Article{Ferreira2013,
+  author    = {Heloisa Gon{\c{c}}alves Ferreira and Elizabeth Joan Barham},
+  title     = {Adapta{\c{c}}{\~{a}}o transcultural de um instrumento para avaliar o envolvimento de idosos em atividades prazerosas},
+  doi       = {10.1590/0102-311x00130212},
+  number    = {12},
+  pages     = {2554--2560},
+  volume    = {29},
+  journal   = {Cadernos de Sa{\'{u}}de P{\'{u}}blica},
+  month     = {dec},
+  publisher = {{FapUNIFESP} ({SciELO})},
+  year      = {2013},
+}
+
+@Article{Martinez2013,
+  author    = {Edson Zangiacomi Martinez and Rodrigo Guimar{\~{a}}es dos Santos Almeida and Fabiana Rodrigues Garcia and Antonio Carlos Duarte de Carvalho},
+  title     = {Notas sobre a vers{\~{a}}o em l{\'{\i}}ngua portuguesa da Escala de Bem-Estar Espiritual},
+  doi       = {10.1590/s0047-20852013000100010},
+  number    = {1},
+  pages     = {76--80},
+  volume    = {62},
+  journal   = {Jornal Brasileiro de Psiquiatria},
+  publisher = {{FapUNIFESP} ({SciELO})},
+  year      = {2013},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

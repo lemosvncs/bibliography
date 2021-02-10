@@ -2559,7 +2559,7 @@ Fatores:
   year      = {2014},
 }
 
-@InBook{ContributorstoWikimediaprojects2020Dec,
+@InBook{regressionDilution,
   booktitle = {Wikip\'edia: a enciclop\'edia livre},
   title     = {{Regression dilution - Wikipedia}},
   note      = {[Online; accessed 7. Feb. 2021]},
