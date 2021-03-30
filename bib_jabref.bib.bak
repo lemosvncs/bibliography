@@ -84,6 +84,22 @@ Escala disponível aqui: https://www.ufrgs.br/nepp/wp-content/uploads/2019/06/No
   year         = {2019},
 }
 
+@Article{gomes2018,
+  author    = {Gomes, Eduardo Tavares AND Bezerra, Simone Maria Muniz da Silva},
+  title     = {Validação da Escala de Bem-Estar Espiritual para pacientes hospitalizados no período pré-operatório},
+  issn      = {0047-2085},
+  language  = {pt},
+  pages     = {179 - 185},
+  url       = {http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0047-20852018000300179&nrm=iso},
+  volume    = {67},
+  crossref  = {10.1590/0047-2085000000199},
+  groups    = {Instrumentos - Bem-estar Subjetivo},
+  journal   = {{Jornal Brasileiro de Psiquiatria}},
+  month     = {07},
+  publisher = {scielo},
+  year      = {2018},
+}
+
 @Movie{matrix,
   director  = {Lana Wachowski and Lilly Wachowski},
   publisher = {Warner Bros.},
@@ -2607,6 +2623,14 @@ Fatores:
 }
 
 @Article{,
+}
+
+@InCollection{veras2008perfil,
+  author    = {Veras, Renato and Dutra, Sidney},
+  booktitle = {Perfil do idoso brasileiro: question{\'a}rio BOAS},
+  date      = {2008},
+  title     = {Perfil do idoso brasileiro: question{\'a}rio BOAS},
+  pages     = {98--98},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
