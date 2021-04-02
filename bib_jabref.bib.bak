@@ -2622,7 +2622,15 @@ Fatores:
   year      = {2013},
 }
 
-@Article{,
+@Article{almeida1999confiabilidade,
+  author    = {Almeida, Osvaldo P and Almeida, Shirley A},
+  title     = {Confiabilidade da vers{\~a}o brasileira da Escala de Depress{\~a}o em Geriatria (GDS) vers{\~a}o reduzida},
+  number    = {2B},
+  pages     = {421--426},
+  volume    = {57},
+  journal   = {Arquivos de Neuro-psiquiatria},
+  publisher = {SciELO Brasil},
+  year      = {1999},
 }
 
 @InCollection{veras2008perfil,
@@ -2631,6 +2639,9 @@ Fatores:
   date      = {2008},
   title     = {Perfil do idoso brasileiro: question{\'a}rio BOAS},
   pages     = {98--98},
+}
+
+@Article{,
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
