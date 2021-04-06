@@ -2641,6 +2641,16 @@ Fatores:
   pages     = {98--98},
 }
 
+@Article{santos2007validaccao,
+  author  = {Santos, IS and Matijasevich, A and Tavares, BF and Barros, AJD and Botelho, IP and Lapolli, C and Magalh{\~a}es, PVS and Barbosa, APPN and Barros, FC},
+  title   = {Valida{\c{c}}{\~a}o da Escala de Depress{\~a}o P{\'o}s-natal de Edinburgo (EPDS) em uma amostra de m{\~a}es da Coorte de Nascimento de Pelotas, 2004},
+  number  = {11},
+  pages   = {2577--2588},
+  volume  = {23},
+  journal = {Cad. Sa{\'u}de P{\'u}blica},
+  year    = {2007},
+}
+
 @Article{,
 }
 
