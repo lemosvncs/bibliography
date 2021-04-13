@@ -2658,6 +2658,28 @@ Fatores:
   year    = {2015},
 }
 
+@Article{sousa2005cross,
+  author    = {Sousa, Valmi D and Zauszniewski, Jaclene A and Mendes, Isabel AC and Zanetti, Maria L},
+  title     = {Cross-cultural equivalence and psychometric properties of the Portuguese version of the Depressive Cognition Scale},
+  number    = {2},
+  pages     = {87--99},
+  volume    = {13},
+  journal   = {Journal of Nursing Measurement},
+  publisher = {Springer},
+  year      = {2005},
+}
+
+@Article{reis2014escala,
+  author    = {Reis, Marcela dos Santos and Faiad, Cristiane},
+  title     = {Escala de instabilidade emocional para a seguran{\c{c}}a p{\'u}blica},
+  number    = {1},
+  pages     = {87--96},
+  volume    = {19},
+  journal   = {Psico-USF},
+  publisher = {SciELO Brasil},
+  year      = {2014},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

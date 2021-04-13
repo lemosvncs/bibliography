@@ -2651,7 +2651,22 @@ Fatores:
   year    = {2007},
 }
 
-@Article{,
+@Article{haslbeck2015mgm,
+  author  = {Haslbeck, Jonas and Waldorp, Lourens J},
+  title   = {mgm: Estimating time-varying mixed graphical models in high-dimensional data},
+  journal = {arXiv preprint arXiv:1510.06871},
+  year    = {2015},
+}
+
+@Article{sousa2005cross,
+  author    = {Sousa, Valmi D and Zauszniewski, Jaclene A and Mendes, Isabel AC and Zanetti, Maria L},
+  title     = {Cross-cultural equivalence and psychometric properties of the Portuguese version of the Depressive Cognition Scale},
+  number    = {2},
+  pages     = {87--99},
+  volume    = {13},
+  journal   = {Journal of Nursing Measurement},
+  publisher = {Springer},
+  year      = {2005},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
