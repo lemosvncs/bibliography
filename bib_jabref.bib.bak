@@ -2669,6 +2669,113 @@ Fatores:
   year      = {2005},
 }
 
+@Article{reis2014escala,
+  author    = {Reis, Marcela dos Santos and Faiad, Cristiane},
+  title     = {Escala de instabilidade emocional para a seguran{\c{c}}a p{\'u}blica},
+  number    = {1},
+  pages     = {87--96},
+  volume    = {19},
+  journal   = {Psico-USF},
+  publisher = {SciELO Brasil},
+  year      = {2014},
+}
+
+@Article{souza2015,
+  author    = {Mayra Silva de SOUZA and Makilim Nunes BAPTISTA and Gisele Aparecida da Silva ALVES},
+  title     = {Estudos psicom{\'{e}}tricos preliminares da Escala Baptista de Depress{\~{a}}o para Adultos},
+  doi       = {http://dx.doi.org/10.1590/0103-166X2015000300002},
+  number    = {3},
+  pages     = {357--370},
+  volume    = {32},
+  journal   = {Estudos de Psicologia (Campinas)},
+  month     = {sep},
+  publisher = {{FapUNIFESP} ({SciELO})},
+  year      = {2015},
+}
+
+@Article{Santos2013,
+  author       = {In{\'{a}} S. Santos and Beatriz Franck Tavares and Tiago N. Munhoz and Laura Sigaran Pio de Almeida and Nath{\'{a}}lia Tessele Barreto da Silva and Bernardo Dias Tams and Andr{\'{e}} Machado Patella and Alicia Matijasevich},
+  date         = {2013-08},
+  journaltitle = {Cadernos de Sa{\'{u}}de P{\'{u}}blica},
+  title        = {Sensibilidade e especificidade do Patient Health Questionnaire-9 ({PHQ}-9) entre adultos da popula{\c{c}}{\~{a}}o geral},
+  doi          = {10.1590/s0102-311x2013001200006},
+  number       = {8},
+  pages        = {1533--1543},
+  volume       = {29},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
+@Article{Silva2018,
+  author       = {Marli Appel da Silva and Guilherme Welter Wendt and Irani Iracema de Lima Argimon},
+  date         = {2018-08},
+  journaltitle = {Revista Avalia{\c{c}}{\~{a}}o Psicol{\'{o}}gica},
+  title        = {Invent{\'{a}}rio de depress{\~{a}}o de beck {II}: an{\'{a}}lises pela teoria do tra{\c{c}}o latente},
+  doi          = {10.15689/ap.2018.1703.14651.07},
+  number       = {03},
+  pages        = {339--350},
+  volume       = {17},
+  publisher    = {Instituto Brasileiro de Avaliacao Psicologica ({IBAP})},
+}
+
+@Article{Amorim2000,
+  author       = {Patr{\'{\i}}cia Amorim},
+  date         = {2000-09},
+  journaltitle = {Revista Brasileira de Psiquiatria},
+  title        = {Mini International Neuropsychiatric Interview ({MINI}): valida{\c{c}}{\~{a}}o de entrevista breve para diagn{\'{o}}stico de transtornos mentais},
+  doi          = {10.1590/s1516-44462000000300003},
+  number       = {3},
+  pages        = {106--115},
+  volume       = {22},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
+@Article{Guilland2018,
+  author       = {Romilda Guilland and Roberto Moraes Cruz and Erikson Kaszubowski},
+  date         = {2018-07},
+  journaltitle = {Psico-{USF}},
+  title        = {Propriedades Psicom{\'{e}}tricas do Invent{\'{a}}rio de Fatores Psicol{\'{o}}gicos de Doen{\c{c}}as Relacionadas ao Trabalho: Um Estudo com Trabalhadores de Frigoríficos},
+  doi          = {10.1590/1413-82712018230312},
+  number       = {3},
+  pages        = {539--554},
+  volume       = {23},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
+@Article{lino2016,
+  author       = {Val{\'{e}}ria Teresa Saraiva Lino and Margareth Cris{\'{o}}stomo Portela and Luiz Antonio Bastos Camacho and Nadia Cristina Pinheiro Rodrigues and Monica Kramer de Noronha Andrade and Gisele O{\textquotesingle}Dwyer},
+  date         = {2016},
+  journaltitle = {Cadernos de Sa{\'{u}}de P{\'{u}}blica},
+  title        = {Rastreamento de problemas de idosos na aten{\c{c}}{\~{a}}o prim{\'{a}}ria e proposta de roteiro de triagem com uma abordagem multidimensional},
+  doi          = {10.1590/0102-311x00086715},
+  number       = {7},
+  volume       = {32},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
+@Article{vieira2016,
+  author       = {Marcos Girardi Vieira and Marta Helena Rovani Pires and Oscar Cesar Pires},
+  date         = {2016},
+  journaltitle = {Revista Dor},
+  title        = {Self-mutilation: pain intensity, triggering and rewarding factors},
+  doi          = {10.5935/1806-0013.20160084},
+  number       = {4},
+  pages        = {257--260},
+  volume       = {17},
+  publisher    = {{GN}1 Genesis Network},
+}
+
+@Article{RosaMonteiro2013,
+  author       = {Daiane da Rosa Monteiro and Miriam de Abreu Almeida and Maria Henriqueta Luce Kruse},
+  date         = {2013-06},
+  journaltitle = {Revista Ga{\'{u}}cha de Enfermagem},
+  title        = {Tradu{\c{c}}{\~{a}}o e adapta{\c{c}}{\~{a}}o transcultural do instrumento Edmonton Symptom Assessment System para uso em cuidados paliativos},
+  doi          = {10.1590/s1983-14472013000200021},
+  number       = {2},
+  pages        = {163--171},
+  volume       = {34},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
