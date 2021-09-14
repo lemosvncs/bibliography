@@ -2800,6 +2800,26 @@ Fatores:
   publisher    = {{FapUNIFESP} ({SciELO})},
 }
 
+@Article{Brandtstadter2002,
+  author    = {Jochen Brandtstädter and Klaus Rothermund},
+  title     = {The Life-Course Dynamics of Goal Pursuit and Goal Adjustment: A Two-Process Framework},
+  doi       = {10.1006/drev.2001.0539},
+  number    = {1},
+  pages     = {117--150},
+  volume    = {22},
+  journal   = {Developmental Review},
+  month     = {mar},
+  publisher = {Elsevier {BV}},
+  year      = {2002},
+}
+
+@Misc{jasp2020,
+  author = {{JASP Team}},
+  title  = {{JASP (Version 0.14.1)[Computer software]}},
+  url    = {https://jasp-stats.org/},
+  year   = {2020},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

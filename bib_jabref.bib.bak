@@ -2776,6 +2776,43 @@ Fatores:
   publisher    = {{FapUNIFESP} ({SciELO})},
 }
 
+@Article{Botega1995,
+  author       = {Neury J. Botega and M{\'{a}}rcia R. Bio and Maria Adriana Zomignani and Celso Garcia Jr and Walter A. B. Pereira},
+  date         = {1995-10},
+  journaltitle = {Revista de Sa{\'{u}}de P{\'{u}}blica},
+  title        = {Transtornos do humor em enfermaria de cl{\'{\i}}nica m{\'{e}}dica e valida{\c{c}}{\~{a}}o de escala de medida ({HAD}) de ansiedade e depress{\~{a}}o},
+  doi          = {10.1590/s0034-89101995000500004},
+  number       = {5},
+  pages        = {359--363},
+  volume       = {29},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
+@Article{Moura2015,
+  author       = {Leides Barroso Azevedo Moura and Cesar de Oliveira and Ana Maria Nogales Vasconcelos},
+  date         = {2015-11},
+  journaltitle = {Ci{\^{e}}ncia {\&} Sa{\'{u}}de Coletiva},
+  title        = {Viol{\^{e}}ncias e juventude em um territ{\'{o}}rio da {\'{A}}rea Metropolitana de Bras{\'{\i}}lia, Brasil: uma abordagem socioespacial},
+  doi          = {10.1590/1413-812320152011.17442014},
+  number       = {11},
+  pages        = {3395--3405},
+  volume       = {20},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
+@Article{Brandtstadter2002,
+  author    = {Jochen Brandtstädter and Klaus Rothermund},
+  title     = {The Life-Course Dynamics of Goal Pursuit and Goal Adjustment: A Two-Process Framework},
+  doi       = {10.1006/drev.2001.0539},
+  number    = {1},
+  pages     = {117--150},
+  volume    = {22},
+  journal   = {Developmental Review},
+  month     = {mar},
+  publisher = {Elsevier {BV}},
+  year      = {2002},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
