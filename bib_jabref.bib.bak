@@ -2875,11 +2875,38 @@ Fatores:
   title       = {Adaptação cultural e validação para a língua portuguesa da “Escala de Bienestar Materno en Situación de Parto (BMSP 2)”},
 }
 
-@Article{devlin2018bert,
+@Article{bertGithub,
   author  = {Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
   title   = {BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
   journal = {arXiv preprint arXiv:1810.04805},
   year    = {2018},
+}
+
+@Article{belmaker2008major,
+  author    = {Belmaker, RH and Agam, Galila},
+  title     = {Major depressive disorder},
+  number    = {1},
+  pages     = {55--68},
+  volume    = {358},
+  journal   = {New England Journal of Medicine},
+  publisher = {Mass Medical Soc},
+  year      = {2008},
+}
+
+@InProceedings{flair_embeddings,
+  author    = {Akbik, Alan and Blythe, Duncan and Vollgraf, Roland},
+  booktitle = {{COLING} 2018, 27th International Conference on Computational Linguistics},
+  title     = {Contextual String Embeddings for Sequence Labeling},
+  pages     = {1638--1649},
+  year      = {2018},
+}
+
+@InProceedings{flair_framework,
+  author    = {Akbik, Alan and Bergmann, Tanja and Blythe, Duncan and Rasul, Kashif and Schweter, Stefan and Vollgraf, Roland},
+  booktitle = {{NAACL} 2019, 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations)},
+  title     = {FLAIR: An easy-to-use framework for state-of-the-art NLP},
+  pages     = {54--59},
+  year      = {2019},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
