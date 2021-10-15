@@ -2813,6 +2813,75 @@ Fatores:
   year      = {2002},
 }
 
+@Misc{jasp2020,
+  author = {{JASP Team}},
+  title  = {{JASP (Version 0.14.1)[Computer software]}},
+  url    = {https://jasp-stats.org/},
+  year   = {2020},
+}
+
+@Article{hakulinen2020,
+  author       = {Christian Hakulinen and Eiko I. Fried and Laura Pulkki-R{\aa}back and Marianna Virtanen and Jaana Suvisaari and Marko Elovainio},
+  date         = {2020-02},
+  journaltitle = {Social Psychiatry and Psychiatric Epidemiology},
+  title        = {Network structure of depression symptomology in participants with and without depressive disorder: the population-based Health 2000{\textendash}2011 study},
+  doi          = {10.1007/s00127-020-01843-7},
+  number       = {10},
+  pages        = {1273--1282},
+  volume       = {55},
+  publisher    = {Springer Science and Business Media {LLC}},
+}
+
+@Article{Cuijpers2018,
+  author       = {Pim Cuijpers},
+  date         = {2018-12},
+  journaltitle = {{JAMA}},
+  title        = {The Challenges of Improving Treatments for Depression},
+  doi          = {10.1001/jama.2018.17824},
+  number       = {24},
+  pages        = {2529},
+  volume       = {320},
+  publisher    = {American Medical Association ({AMA})},
+}
+
+@Article{Fried2019,
+  author       = {E. I. Fried and S. von Stockert and J. M. B. Haslbeck and F. Lamers and R. A. Schoevers and B. W. J. H. Penninx},
+  date         = {2019-10},
+  journaltitle = {Psychological Medicine},
+  title        = {Using network analysis to examine links between individual depressive symptoms, inflammatory markers, and covariates},
+  doi          = {10.1017/s0033291719002770},
+  number       = {16},
+  pages        = {2682--2690},
+  volume       = {50},
+  publisher    = {Cambridge University Press ({CUP})},
+}
+
+@Article{ALVES2015,
+  author       = {C{\'{a}}ssia Ferrazza ALVES and Jana Gon{\c{c}}alves ZAPPE and D{\'{e}}bora Dalbosco DELL{\textquotesingle}AGLIO},
+  date         = {2015-09},
+  journaltitle = {Estudos de Psicologia (Campinas)},
+  title        = {{\'{I}}ndice de Comportamentos de Risco: constru{\c{c}}{\~{a}}o e an{\'{a}}lise das propriedades psicom{\'{e}}tricas},
+  doi          = {10.1590/0103-166x2015000300003},
+  number       = {3},
+  pages        = {371--382},
+  volume       = {32},
+  publisher    = {{FapUNIFESP} ({SciELO})},
+}
+
+@PhdThesis{jamas2013,
+  author      = {Milena Temer Jamas},
+  date        = {2013},
+  institution = {Universidade de São Paulo},
+  title       = {Adaptação cultural e validação para a língua portuguesa da “Escala de Bienestar Materno en Situación de Parto (BMSP 2)”},
+}
+
+@Article{devlin2018bert,
+  author  = {Devlin, Jacob and Chang, Ming-Wei and Lee, Kenton and Toutanova, Kristina},
+  title   = {BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding},
+  journal = {arXiv preprint arXiv:1810.04805},
+  year    = {2018},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
