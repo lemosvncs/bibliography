@@ -2909,6 +2909,25 @@ Fatores:
   year      = {2019},
 }
 
+@Article{mcrae2017,
+  author    = {Niall McCrae and Sheryl Gettings and Edward Purssell},
+  date      = {2017-03},
+  title     = {Social Media and Depressive Symptoms in Childhood and Adolescence: A Systematic Review},
+  doi       = {10.1007/s40894-017-0053-4},
+  number    = {4},
+  pages     = {315--330},
+  volume    = {2},
+  publisher = {Springer Science and Business Media {LLC}},
+}
+
+@Manual{keras,
+  author = {JJ Allaire and François Chollet},
+  title  = {keras: R Interface to 'Keras'},
+  note   = {R package version 2.8.0},
+  url    = {https://CRAN.R-project.org/package=keras},
+  year   = {2022},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:

@@ -2920,6 +2920,22 @@ Fatores:
   publisher = {Springer Science and Business Media {LLC}},
 }
 
+@Manual{keras,
+  author = {JJ Allaire and François Chollet},
+  title  = {keras: R Interface to 'Keras'},
+  note   = {R package version 2.8.0},
+  url    = {https://CRAN.R-project.org/package=keras},
+  year   = {2022},
+}
+
+@Manual{tensorflow,
+  author = {JJ Allaire and Yuan Tang},
+  title  = {tensorflow: R Interface to 'TensorFlow'},
+  note   = {R package version 2.8.0},
+  url    = {https://CRAN.R-project.org/package=tensorflow},
+  year   = {2022},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: grouping:
